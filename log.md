@@ -15,5 +15,12 @@
 **Thoughts:** : Worked with Number calculation after a long Gap
 
 **Link to work:** [A program covering all concepts of Day 2](http://www.example.com)](https://replit.com/@ShilpaVP/day-2-3-exercise#main.py)
+### Day 3 & 4: Oct 18 &Oct 19 2022
+
+**Today's Progress**: Refreshed my Knowledge on Conditional statements 
+
+**Thoughts:** : Was intresting to build a simple game code using basic Conditional statements
+
+**Link to work:** [A program covering all concepts of Day 3 & 4](https://replit.com/@ShilpaVP/day-3-5-exercise#main.py)
 
 
