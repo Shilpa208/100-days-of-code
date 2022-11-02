@@ -22,5 +22,10 @@
 **Thoughts:** : Was intresting to build a simple game code using basic Conditional statements
 
 **Link to work:** [A program covering all concepts of Day 3 & 4](https://replit.com/@ShilpaVP/day-3-5-exercise#main.py)
+### Day 5: Nov2 2022
+**Today's Progress**: Worked on Loops concept with List
+
+**Thoughts:** : Got more info and control over how elemnts in list can be fetched with for loop concepts
+**Link to work:** [A program covering all concepts of Day 5](https://replit.com/@ShilpaVP/password-generator-start#main.py)
 
 
